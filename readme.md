@@ -1,4 +1,4 @@
-# Comandos claves de GIT
+# Algunos comandos claves de GIT para tener en cuenta:
 1. git init
 2. git add 'nombre del archivo'
 3. git add .
