@@ -20,3 +20,25 @@
 18. git status -s --> muestra solo el estatus de los archivos
 19. git merge 'nombre de la rama' --> fuciona la rama master con esta nueva rama
 20. git diff [nombre archivo] --> muestra las diferencias o modificaciones que ha sufrido el archivo
+
+## Algunos comandos básicos de consola:
+1. pwd --> muestra la posición actual, donde estas parado
+2. ls --> lista el contenido de un directorio
+3. ls -l --> lista los archivos y los directorios que pueden haber en un directorio
+4. ls -la --> lista todo el contenido e incluye los archivos ocultos
+5. cd --> te regresa a la carpeta home
+6. cd ~ --> te regresa a la carpeta home
+7. cd .. --> retrocede un directorio
+8. cd [nombre directorio] --> avanza hasta ese directorio
+9. mkdir [nombre directorio] --> Crea un nuevo directorio
+10. touch [nombre archivo] --> Crea un archivo. Puede poseer cualquier extensión
+11. rm [nombre archivo] --> elimina el archivo de forma permanente
+12. rm -rf [nombre directorio] --> Fuerza la eliminacion de un directorio
+13. clear --> Limpia los comandos ejecutados en la consola. No elimina ningun proceso, solo la pone en blanco de nuevo
+14. cat [nombre archivo] --> muestra el contenido de un archivo que no es muy extenso
+15. cat [nombre archivo] | more --> va a mostrar por partes el contenido de un archivo que sea más extenso
+16. less [nombre archivo] --> combina a cat y more permitiendo moverse con el teclado
+17. man [nombre comando] --> muestra explicacion del comando y algunos ejemplos de uso
+18. cp [archivo origen] [archivo destino] --> copia el archivo de origen en el archivo de destino
+19. mv [nombre archivo] / [nombre directorio] --> Mueve un archivo a un directorio
+20. mv [nombre directorio] [nuevo nombre] --> renombra al directorio
